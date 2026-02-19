@@ -27,7 +27,7 @@ namespace Pizzanapoli
 
             Console.WriteLine("1 - Pimiento");
             Console.WriteLine("2 - Tofu");
-            Console.Write("Elija un ingrediente: ");
+            
 
             string opcionIngrediente = Console.ReadLine()!;
 
@@ -53,7 +53,7 @@ namespace Pizzanapoli
             Console.WriteLine("1 - Peperoni ");
             Console.WriteLine("2 - Jamón ");
             Console.WriteLine("3 - Salmón ");
-            Console.Write("Elija un ingrediente: ");
+           
 
             string opcionIngrediente = Console.ReadLine()!;
 
