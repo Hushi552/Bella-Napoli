@@ -1,0 +1,15 @@
+C:\Users\jean\bella napoli\bellanapoli\bin\Debug\net10.0\bellanapoli.exe
+C:\Users\jean\bella napoli\bellanapoli\bin\Debug\net10.0\bellanapoli.deps.json
+C:\Users\jean\bella napoli\bellanapoli\bin\Debug\net10.0\bellanapoli.runtimeconfig.json
+C:\Users\jean\bella napoli\bellanapoli\bin\Debug\net10.0\bellanapoli.dll
+C:\Users\jean\bella napoli\bellanapoli\bin\Debug\net10.0\bellanapoli.pdb
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.AssemblyInfoInputs.cache
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.AssemblyInfo.cs
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.csproj.CoreCompileInputs.cache
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.sourcelink.json
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.dll
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\refint\bellanapoli.dll
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.pdb
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\bellanapoli.genruntimeconfig.cache
+C:\Users\jean\bella napoli\bellanapoli\obj\Debug\net10.0\ref\bellanapoli.dll
